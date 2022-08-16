@@ -1,6 +1,6 @@
 # Hadron-Ord-Bot-E3-V0
 
-**Note:*I redesigned my first 3d printer. Looks kinda funny, used some ideas from Ender 3 and Voron Switchwire.
+I redesigned my first 3d printer. Looks kinda funny, used some ideas from Ender 3 and Voron Switchwire.
 
 ![Presentacion-1](https://user-images.githubusercontent.com/54782788/184996062-83d22cc2-2225-41f2-9f81-ad951851e2d0.jpg)
 
@@ -41,10 +41,9 @@ Import Superslicer Profiles
 Go under printer and use your current values for your printer, like max Z, limits, start gcodes or other things you may need to tune
 **Note:** To be updated soon
 
-### 3. BOM:
+## 3. BOM:
 
-* **Trianglelab:** https://trianglelab.aliexpress.com/store/1654223
-* **Funssor:** https://www.aliexpress.com/store/115344
+**Note:** To be updated soon
 
 ### 3.1. Printed Parts:
 
@@ -58,5 +57,3 @@ Go under printer and use your current values for your printer, like max Z, limit
 
 **Note:** To be updated soon
 
-* **sn4k3** https://www.thingiverse.com/sn4k3/collections/creality-ender-3
-* **Nerys** https://www.thingiverse.com/Nerys/collections/ender-3
