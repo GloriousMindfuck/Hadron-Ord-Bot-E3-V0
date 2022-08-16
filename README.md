@@ -39,21 +39,21 @@ Modify at your needs.
 
 Import Superslicer Profiles
 Go under printer and use your current values for your printer, like max Z, limits, start gcodes or other things you may need to tune
+
 **Note:** To be updated soon
 
 ## 3. BOM:
 
 **Note:** To be updated soon
 
-### 3.1. Printed Parts:
+#### 4 Parts:
+There a two type of parts CNC cut aluminum and 3d printed ones.
 
+### 4.1. Printed Parts:
+3MF files.
 **Note:** To be updated soon
 
 ### 3.2 CNC Aluminum Parts:
-
-**Note:** To be updated soon
-
-### 3.3 Step Files:
-
+Step files.
 **Note:** To be updated soon
 
